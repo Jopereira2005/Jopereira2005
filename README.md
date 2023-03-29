@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+  <a href"https://github.com/Jopereira2005">
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Jopereira2005&theme=tokyonight&show_icons=true">
+  
+</div>
 <!--
 **Jopereira2005/Jopereira2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,10 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<div>
-  <a href"https://github.com/Jopereira2005">
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Jopereira2005&theme=tokyonight&show_icons=true">
-  
-</div>
+
 
 -->

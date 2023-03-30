@@ -2,7 +2,7 @@
 <br>
 <div>
   <a href"https://github.com/Jopereira2005">
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Jopereira2005&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Jopereira2005&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=false">
   <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopereira2005&layout=compact&theme=tokyonight">
 </div>
     
@@ -10,7 +10,8 @@
 ### Linguagens e Ferramentas
 <div style="display: inline_block"><br>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>    </a> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>    
+  </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 

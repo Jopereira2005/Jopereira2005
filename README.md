@@ -123,7 +123,7 @@
   </a>
 </div>
 
-![snake animation](https://github.com/<Jopereira2005>/<Jopereira2005>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Jopereira2005/Jopereira2005/blob/output/github-contribution-grid-snake-dark.svg)
 
 
     

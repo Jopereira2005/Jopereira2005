@@ -110,10 +110,9 @@
 ##
 
 ### Stats
-
 <div>
   <a href"https://github.com/Jopereira2005">
-    <img height"180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopereira2005&theme=tokyonight">
+    <img height"180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jopereira2005&theme=tokyonight&langs_count=10">
   </a>
 </div>
 

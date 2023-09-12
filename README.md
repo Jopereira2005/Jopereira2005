@@ -80,12 +80,12 @@
     <img src="https://skillicons.dev/icons?i=angular" height="40px" alt="Angular">
   </a>
 
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" height="40px" alt="TypeScript">
   </a>
   
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://media-private.canva.com/aOLxg/MAFtbJaOLxg/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230903%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230903T121552Z&X-Amz-Expires=44495&X-Amz-Signature=06894ee19c8dd2c3b917e52516c7575b9ec82f3603842f67f73d12e2a309796d&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2004%20Sep%202023%2000%3A37%3A27%20GMT" height="40px" alt="Laravel">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://media-private.canva.com/aOLxg/MAFtbJaOLxg/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230912T121552Z&X-Amz-Expires=33695&X-Amz-Signature=7aaca0d689ed82356be0bb13b295a4102a460de1dde9dc4ebf5b7031eefa8883&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2012%20Sep%202023%2021%3A37%3A27%20GMT" height="40px" alt="Laravel">
   </a>
 
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">

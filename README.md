@@ -43,7 +43,7 @@
   </a>
 
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-    <img src="https://media-private.canva.com/c1gA8/MAFtbLc1gA8/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230902%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230902T212829Z&X-Amz-Expires=96610&X-Amz-Signature=dc5ca3807db29acda6b00e182e68ca8cde13b07617e219876b1369aaf3d2ca8a&X-Amz-SignedHeaders=host&response-expires=Mon%2C%2004%20Sep%202023%2000%3A18%3A39%20GMT" height="40px" alt="Ionic">
+    <img src="https://media-private.canva.com/c1gA8/MAFtbLc1gA8/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230911%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230911T212829Z&X-Amz-Expires=85810&X-Amz-Signature=4c25ac09a1e9223e14a431667551a72f2f7d767e3092376eb7e422d87f1a70b4&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2012%20Sep%202023%2021%3A18%3A39%20GMT" height="40px" alt="Ionic">
   </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">

@@ -85,7 +85,7 @@
   </a>
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://media-private.canva.com/aOLxg/MAFtbJaOLxg/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20230912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230912T121552Z&X-Amz-Expires=33695&X-Amz-Signature=7aaca0d689ed82356be0bb13b295a4102a460de1dde9dc4ebf5b7031eefa8883&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2012%20Sep%202023%2021%3A37%3A27%20GMT" height="40px" alt="Laravel">
+    <img src="https://media-private.canva.com/aOLxg/MAFtbJaOLxg/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20231208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231208T121552Z&X-Amz-Expires=66095&X-Amz-Signature=c25c5ed8439e857daf3c8cd051f1346a44e90ec5b62dc4fa7c56f9b3b7cec2b1&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2009%20Dec%202023%2006%3A37%3A27%20GMT" height="40px" alt="Laravel">
   </a>
 
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">

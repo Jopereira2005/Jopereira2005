@@ -43,7 +43,7 @@
   </a>
 
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-    <img src="https://media-private.canva.com/c1gA8/MAFtbLc1gA8/1/p.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20231208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231208T212829Z&X-Amz-Expires=35410&X-Amz-Signature=74ff65146462a9bc2725b68d8b6dcc2987f46be3b1ce6f802dabd43a05d959e1&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2009%20Dec%202023%2007%3A18%3A39%20GMT" height="40px" alt="Ionic">
+    <img src="https://raw.githubusercontent.com/Jopereira2005/icons/f607b5906bacbd6fdfd80fc6b4d0f4294dc1fcc9/ionic.svg" height="40px" alt="Ionic">
   </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">

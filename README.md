@@ -91,6 +91,11 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=selenium" height="40px" alt="Selenium">
   </a>
+
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" height="40px" alt="C">
+  </a>
+
 </div>
 
 ##

@@ -1,6 +1,7 @@
 # Hello 👋 My name is João Augusto
 
 - 🌎 I'm from Tatuí/SP, Brasil.
+- 👨‍💻 I'm Systems development technician
 - 👨‍🎓 I'm Study in Facens.
 - 💻 I'm a Computer Engineering student.
 - 📫 How to reach me: jopereiravieira98@gmail.com.

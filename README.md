@@ -46,12 +46,24 @@
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Jopereira2005/icons/f607b5906bacbd6fdfd80fc6b4d0f4294dc1fcc9/ionic.svg" height="40px" alt="Ionic">
   </a>
+  
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=angular" height="40px" alt="Angular">
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" height="40px" alt="TypeScript">
+  </a>
+  
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Jopereira2005/icons/f607b5906bacbd6fdfd80fc6b4d0f4294dc1fcc9/laravel.svg" height="40px" alt="Laravel">
+  </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sassy">
   </a>
 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=md" height="40" alt="Markdown">
   </a>
 
@@ -77,24 +89,12 @@
 ### Learning
 
 <div>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=angular" height="40px" alt="Angular">
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" height="40px" alt="TypeScript">
-  </a>
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Jopereira2005/icons/f607b5906bacbd6fdfd80fc6b4d0f4294dc1fcc9/laravel.svg" height="40px" alt="Laravel">
-  </a>
-
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=selenium" height="40px" alt="Selenium">
-  </a>
-
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <a href="https://www.google.com/search?q=C&oq=C+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTQ4NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#ip=1" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" height="40px" alt="C">
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" height="40px" alt=React">
   </a>
 
 </div>
